@@ -3,6 +3,6 @@ Here you will find code for fine-tuning various models for image classication an
 
 We found that the networks vary in their power to extrapolate to unseen classes, both across layers and across architectures. Accuracy is not a good predictor of generalizability, and generalization varies non-monotonically with layer depth. For more information, please refer to the paper:
 
-> Gerritz, E., Dyballa, L., Zucker, S. W. (2024), "Zero-shot generalization across architectures for visual classification", _The Twelfth International Conference on Learning Representations (ICLR '24), TinyPapers Track_.
+> Gerritz, E., Dyballa, L., Zucker, S. W. (2024), "Zero-shot generalization across architectures for visual classification", _The Twelfth International Conference on Learning Representations (ICLR '24), TinyPapers Track_. https://openreview.net/pdf?id=orYMrUv7eu.
 
 The code used for our preliminary results in the tiny paper is available at the following release: [ICLR2024TinyPaper](https://github.com/dyballa/zero-shot-generalization/releases/tag/ICLR2024TinyPaper).
